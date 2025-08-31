@@ -2,6 +2,9 @@
 My completed tasks for DevelopersHub AI/ML Internship
 
 ---
+**Author**: FAHAD TARIQ  
+**Internship**: AI/ML Engineering Internship – DevelopersHub Corporation  
+**Submission Date**: 31 Augest,2025
 
 ## 📌 Tasks Overview
 
@@ -46,9 +49,17 @@ My completed tasks for DevelopersHub AI/ML Internship
 - **Key Result:** Correctly tags simple support tickets; extendable to ML/LLM models.  
 
 ---
+## 📝 About the Author
+
+FAHAD TARIQ
+
+AI/ML Intern @ DevelopersHub Corporation  
+Passionate about applying machine learning to solve real-world problems with practical and efficient solutions.
+
+
 
 ## 🚀 How to Run
 1. Clone the repository:  
-   ```bash
+   ```bash## 📝 About the Author
    git clone https://github.com/<your-username>/ai-ml-internship-tasks_part2.git
    cd ai-ml-internship-tasks
