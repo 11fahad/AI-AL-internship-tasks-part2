@@ -1,4 +1,4 @@
-# AI-AL-internship-tasks-part2
+# AI-ML-internship-tasks-part2
 My completed tasks for DevelopersHub AI/ML Internship
 
 ---
